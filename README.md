@@ -1,6 +1,6 @@
 # pyspark-jupyter-tutorial
 An easy installation of PySpark on Jupyter
-
+## Setup
 1. Check your Python Version
 ```bash
 python3 --version
