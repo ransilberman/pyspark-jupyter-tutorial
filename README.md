@@ -34,6 +34,6 @@ jupyter-notebook
 ```
 6. Open a notebook
 - In the web console that opens, open a new notebook of python3
-- Copy the content of the file `demo.ipynb`
+- Copy the content of the file [demo.ipynb](https://github.com/ransilberman/pyspark-jupyter-tutorial/blob/main/demo.ipynb)
 - Replace the `SPARK_HOME` value with the SPARL_HOME that you obtained in step #4.
 
