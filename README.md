@@ -33,7 +33,8 @@ The result may look like this:
 jupyter-notebook
 ```
 6. Open a notebook
-- In the web console that opens, open a new notebook of python3
+- In the web console that opens, open a new notebook of Python 3
+7. Test a demo notebook
 - Copy the content of the file [demo.ipynb](https://github.com/ransilberman/pyspark-jupyter-tutorial/blob/main/demo.ipynb)
 - Replace the `SPARK_HOME` value with the SPARL_HOME that you obtained in step #4.
 
