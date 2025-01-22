@@ -17,8 +17,8 @@ pip install pyspark
 pip install findspark
 ```
 4. Find the full path of PySpark Home directrory
-Open spark console by typing 'spark3', then:
-```spark
+Open python console by typing 'python3', then:
+```python
 import pyspark
 print(pyspark.__file__)
 ```
