@@ -1,14 +1,14 @@
 # PySpark Jupyter tutorial
 An easy installation of PySpark on Jupyter
 ## Setup
-1. Check your Python3 Version. (In this example, we assume pythonr version 3.6, but you may adjust to higher version.)
+1. Check your Python3 Version. (In this example, we assume pythonr version 3.9, but you may adjust to higher version.)
 ```bash
-python3.6 --version
+python3.9 --version
 ```
 2. Open Python venv
 ```bash
-python3.6 -m venv .venv3.6
-source .venv3.6/bin/activate
+python3.9 -m venv .venv3.9
+source .venv3.9/bin/activate
 ```
 3. Install necessary packages
 ```bash
